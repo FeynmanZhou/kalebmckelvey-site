@@ -1,11 +1,12 @@
 backend:
   name: git-gateway
   branch: master
+  repo: FeynmanZhou/kalebmckelvey-site
 
 media_folder: static/post-images
 public_folder: post-images
 
-display_url: https://ecstatic-carson-9a7173.netlify.com
+display_url: https://pengfei.netlify.com
 
 collections:
   - name: blog
